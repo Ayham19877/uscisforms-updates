@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.6.apk",
-  "notes": "Multi-page document capture"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.7.apk",
+  "notes": "Parent answers suggestion for new forms"
 }
