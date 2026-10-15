@@ -1,6 +1,1 @@
-{
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.10.apk",
-  "notes": "Gemini key tester + detailed analysis errors + x-goog-api-key header auth (fixes AQ. keys)"
-}
+{"versionCode":12,"versionName":"1.11","apkUrl":"https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.11.apk","notes":"gemini-3.8-flash model (2.0-flash retired)"}
