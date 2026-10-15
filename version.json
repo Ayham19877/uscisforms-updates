@@ -1,1 +1,6 @@
-{"versionCode":12,"versionName":"1.11","apkUrl":"https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.11.apk","notes":"gemini-3.8-flash model (2.0-flash retired)"}
+{
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.12.apk",
+  "notes": "Dynamic model discovery + auto-retry on 503 high-demand"
+}
