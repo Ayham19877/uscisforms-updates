@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.5.apk",
-  "notes": "Smart Scan + translation sheet generator + online updates + print button"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.6.apk",
+  "notes": "Multi-page document capture"
 }
