@@ -1,1 +1,6 @@
-{"versionCode":9,"versionName":"1.8","apkUrl":"https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.8.apk","notes":"Green checkmark per photographed page"}
+{
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/uscisforms-updates/main/UsCisForms_v1.9.apk",
+  "notes": "Auto-analyze on generate + two-group scan review (badges, summary, show-all toggle)"
+}
